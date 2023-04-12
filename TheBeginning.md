@@ -4,7 +4,7 @@ author: Jörn Willers Radke
 
 email: jwradke@uv.uni-kiel.de
 
-version: 0.1_alpha
+version: 0.0.1
 
 language: de
 
