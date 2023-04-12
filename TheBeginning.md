@@ -12,13 +12,17 @@ language: de
 
 # Willkommen!
   Dies ist mein erster Gehversuch mit LiaScript. Have fun!
-  
+
+<section>
 ## Es wird nicht lustiger
   
   Sorry, ich tippe beliebigen Kram. Erwarte nix mehr hier.
+</section>
 
+<section>
 ## Wie viele Ebenen gibt es?
   Keine Ahnung, muss ich wohl ausprobieren.
+</section>
 
 ## Jetzt wird's spannend
   Hat Indentation einen Effekt? Wobei es darum gar nicht geht.
