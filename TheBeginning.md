@@ -12,6 +12,11 @@ language: de
 
 # Willkommen!
   Dies ist mein erster Gehversuch mit LiaScript. Have fun!
+  
+  Jetzt probieren wir diese seltsame Syntax
+  =========================================
+  
+  Ich glaub nicht, dass das klappt...
 
 ## Es wird nicht lustiger
   
