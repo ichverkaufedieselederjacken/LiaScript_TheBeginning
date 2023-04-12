@@ -23,7 +23,7 @@ language: de
 ## Jetzt wird's spannend
   Hat Indentation einen Effekt? Wobei es darum gar nicht geht.
   
-  ## Sondern um die Tags
+## Sondern um die Tags
   Haha!
   
 ## Und werden die nummeriert?
