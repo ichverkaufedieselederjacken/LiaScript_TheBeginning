@@ -15,9 +15,10 @@ language: de
 
 <section>
 ## Es wird nicht lustiger
+  
   Sorry, ich tippe beliebigen Kram. Erwarte nix mehr hier.
 
-### Wie viele Ebenen gibt es?
+## Wie viele Ebenen gibt es?
   Keine Ahnung, muss ich wohl ausprobieren.
 </section>
 
@@ -25,9 +26,9 @@ language: de
 ## Jetzt wird's spannend
   Hat Indentation einen Effekt? Wobei es darum gar nicht geht.
   
-  ### Sondern um die Tags
+  ## Sondern um die Tags
   Haha!
   
-#### Und werden die nummeriert?
+## Und werden die nummeriert?
 Wir werden sehen!
 </article>
