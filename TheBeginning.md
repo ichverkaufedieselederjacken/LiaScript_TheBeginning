@@ -11,13 +11,23 @@ language: de
 -->
 
 # Willkommen!
-Dies ist mein erster Gehversuch mit LiaScript. Have fun!
+  Dies ist mein erster Gehversuch mit LiaScript. Have fun!
 
+<section>
 ## Es wird nicht lustiger
-Sorry, ich tippe beliebigen Kram. Erwarte nix mehr hier.
+  Sorry, ich tippe beliebigen Kram. Erwarte nix mehr hier.
 
 ### Wie viele Ebenen gibt es?
-Keine Ahnung, muss ich wohl ausprobieren.
+  Keine Ahnung, muss ich wohl ausprobieren.
+</section>
 
+<article>
+## Jetzt wird's spannend
+  Hat Indentation einen Effekt? Wobei es darum gar nicht geht.
+  
+  ### Sondern um die Tags
+  Haha!
+  
 #### Und werden die nummeriert?
 Wir werden sehen!
+</article>
